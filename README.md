@@ -5,6 +5,6 @@ def calc_sum(a+b):
 function.
 and it returns sum
 """
-    sum = a+b # adding two numbers
+    sum = a+b    #adding two numbers
     
-    return sum 
+    return sum  
